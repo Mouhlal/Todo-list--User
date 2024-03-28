@@ -64,4 +64,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Todo-list--User app , where users can securely log in and start creating their tasks. With seamless user authentication and task management, it offers a streamlined experience for organizing daily activities , Created by Laravel and Mysql and TailwondCSS
+# Todo-list--User app , where users can securely log in and start creating their tasks. With seamless user authentication and task management, it offers a streamlined experience for organizing daily activities , Created by Laravel and Mysql and TailwindCSS
