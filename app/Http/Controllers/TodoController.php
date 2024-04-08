@@ -65,5 +65,5 @@ class TodoController extends Controller
         Todo::create($submit);
         return redirect()->route('todo')->with('add','Adding with success');
     }
-
+  
     }

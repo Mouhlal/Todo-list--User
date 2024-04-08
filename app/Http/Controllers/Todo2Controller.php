@@ -14,7 +14,7 @@ class Todo2Controller extends Controller
         $todo=Todo::where('user_id',$user->id)->get();
         return view('todo.mytodo', compact('todo'));
     }
-    public function delete($id){
+    public function destroy($id){
         Todo::findOrFail($id)->delete();
         return redirect()->route( 'todo') ->with('danger','Task deleted!');
     }
