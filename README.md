@@ -65,3 +65,35 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Todo-list--User app , where users can securely log in and start creating their tasks. With seamless user authentication and task management, it offers a streamlined experience for organizing daily activities , Created by Laravel and Mysql and TailwindCSS
+
+# ✅ Todo List - Gestion des Utilisateurs  
+
+## 📌 Description  
+**Todo-list-User** est une application web développée avec **Laravel** et **MySQL**, permettant de gérer des utilisateurs et leurs tâches. Les utilisateurs peuvent créer, modifier et supprimer des tâches, ainsi que marquer celles-ci comme complétées.  
+
+---
+
+## 🚀 Technologies utilisées  
+- **Framework Backend :** Laravel (PHP)  
+- **Base de données :** MySQL  
+- **Frontend :** Blade + Tailwind CSS / Bootstrap (si utilisé)  
+- **ORM :** Eloquent  
+- **Autres :** API REST, Middleware d'authentification  
+
+---
+
+## 🎯 Fonctionnalités principales  
+✔️ Création, modification et suppression des utilisateurs  
+✔️ Création, modification et suppression des tâches  
+✔️ Marquer une tâche comme complétée  
+✔️ Interface simple et intuitive avec Laravel Blade  
+✔️ Système d’authentification utilisateur  
+
+---
+
+## 📦 Installation et exécution  
+
+### 🔹 1. Cloner le projet  
+```bash
+git clone https://github.com/Mouhlal/Todo-list--User.git
+
